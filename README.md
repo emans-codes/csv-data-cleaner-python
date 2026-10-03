@@ -2,6 +2,10 @@
 
 A Python-based data cleaning tool that automatically processes CSV and Excel files, handles common data-quality problems, and generates a cleaned output file and cleaning report.
 
+## 📸 Demo
+
+![CSV Data Cleaner Demo](project-demo.png)
+
 ## ✨ Features
 
 * 📄 Supports CSV and Excel (`.xlsx`) files
